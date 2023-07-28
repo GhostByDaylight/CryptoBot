@@ -4,8 +4,8 @@ from coinbase_advanced_trader.coinbase_client import Side
 import json
 
 # Set your API key and secret
-API_KEY = r"2ZFEvXu7c5331bwi"
-API_SECRET = r"sc3bWGbsAa9d1M3odLKuLaM18oeQZ10M"
+API_KEY = "Public"
+API_SECRET = "Secret"
 
 # Set the credentials
 coinbase_client.set_credentials(API_KEY, API_SECRET)
